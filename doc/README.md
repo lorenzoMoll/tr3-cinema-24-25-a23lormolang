@@ -1,10 +1,9 @@
 # Documentació
-Llistat d'alguns dels punts que han de quedar explicats en aquesta carpeta. Poden ser tots en aquest fitxer o en diversos fitxers enllaçats.
 
-És obligatori modificar aquest document!!
-
-## Documentació bàsica MÍNIMA
+## Documentació bàsica
  * Objectius
+   * Aprendre mes profundament sobre Vue y Laravel
+   * Crear una aplicacio robusta y eficient.
  * Arquitectura bàsica
    * Tecnologies utilitzades
       * Nuxt
@@ -13,14 +12,14 @@ Llistat d'alguns dels punts que han de quedar explicats en aquesta carpeta. Pode
       * Node
    * Interrelació entre els diversos components
  * Com crees l'entorn de desenvolupament
+   * Es deplega amb docker amb el seguent comand:
+     ```bash
+     docker compose up
+     ```
+   * Accedir al navegador a la següent ruta:
+      * http://localhost
+
  * Com desplegues l'aplicació a producció
- * Llistat d'endpoints de l'API de backend
-    * Rutes
-   * Exemples de JSON de peticó
-   * Exemples de JSON de resposta i els seus codis d'estat 200? 404?
- * Aplicació Android
- * Altres elements importants.
- * ...
 
 ## Llistat d'endpoints de l'API de backend
 ### POST /auth/login

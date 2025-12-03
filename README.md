@@ -1,15 +1,11 @@
-# Transversal 3 Institut Pedralbes
+# Transversal 3 de l'Institut Pedralbes 2025
  * Integrant:
-    * Lorenzo Moll Anglada
+    * Lorenzo Moll
  * Nom del projecte
     * TR3Cine
  * Petita descripció
     * Web on es podrà comprar entrades de cinema i gestionar les pel·lícules que es veuran.
- * Adreça del gestor de tasques (taiga, jira, trello...)
-    * Taiga: https://tree.taiga.io/project/a23lormolang-tr3-cinema-24-25/kanban
  * Adreça del prototip gràfic del projecte (Penpot, figma, moqups...)
     * Penpot: https://design.penpot.app/#/view?file-id=456eee66-5663-80cb-8005-d35de2c094cb&page-id=456eee66-5663-80cb-8005-d35de2c094cc&section=interactions&index=0&share-id=456eee66-5663-80cb-8005-d3693a43d415
- * URL de producció (quan la tingueu)
-    * URL: tr3cine.daw.inspedralbes.cat
- * Estat: (explicació d'en quin punt està)
-    * En desenvolupament.
+ * Estat:
+    * Finalitzat.
